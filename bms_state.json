@@ -96,6 +96,86 @@
       "price": "240.00",
       "status": "3"
     },
+    "PVAK|21932|20261120|PRIME PLUS SOFA ROWS": {
+      "venue": "PVR: Avani Kolkata (Audi 2-All New 3D Projection)",
+      "time": "03:45 PM",
+      "date": "20261120",
+      "cat": "PRIME PLUS SOFA ROWS",
+      "price": "320.00",
+      "status": "3"
+    },
+    "PVAK|21932|20261120|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Avani Kolkata (Audi 2-All New 3D Projection)",
+      "time": "03:45 PM",
+      "date": "20261120",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "280.00",
+      "status": "3"
+    },
+    "PVAK|21932|20261120|PRIME PLUS ROWS": {
+      "venue": "PVR: Avani Kolkata (Audi 2-All New 3D Projection)",
+      "time": "03:45 PM",
+      "date": "20261120",
+      "cat": "PRIME PLUS ROWS",
+      "price": "270.00",
+      "status": "3"
+    },
+    "PVAK|21932|20261120|PRIME ROWS": {
+      "venue": "PVR: Avani Kolkata (Audi 2-All New 3D Projection)",
+      "time": "03:45 PM",
+      "date": "20261120",
+      "cat": "PRIME ROWS",
+      "price": "260.00",
+      "status": "3"
+    },
+    "PVAK|21932|20261120|CLASSIC ROWS": {
+      "venue": "PVR: Avani Kolkata (Audi 2-All New 3D Projection)",
+      "time": "03:45 PM",
+      "date": "20261120",
+      "cat": "CLASSIC ROWS",
+      "price": "99.00",
+      "status": "3"
+    },
+    "PVAK|21933|20261120|PRIME PLUS SOFA ROWS": {
+      "venue": "PVR: Avani Kolkata (Audi 2-All New 3D Projection)",
+      "time": "10:30 PM",
+      "date": "20261120",
+      "cat": "PRIME PLUS SOFA ROWS",
+      "price": "330.00",
+      "status": "3"
+    },
+    "PVAK|21933|20261120|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Avani Kolkata (Audi 2-All New 3D Projection)",
+      "time": "10:30 PM",
+      "date": "20261120",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "290.00",
+      "status": "3"
+    },
+    "PVAK|21933|20261120|PRIME PLUS ROWS": {
+      "venue": "PVR: Avani Kolkata (Audi 2-All New 3D Projection)",
+      "time": "10:30 PM",
+      "date": "20261120",
+      "cat": "PRIME PLUS ROWS",
+      "price": "280.00",
+      "status": "3"
+    },
+    "PVAK|21933|20261120|PRIME ROWS": {
+      "venue": "PVR: Avani Kolkata (Audi 2-All New 3D Projection)",
+      "time": "10:30 PM",
+      "date": "20261120",
+      "cat": "PRIME ROWS",
+      "price": "270.00",
+      "status": "3"
+    },
+    "PVAK|21933|20261120|CLASSIC ROWS": {
+      "venue": "PVR: Avani Kolkata (Audi 2-All New 3D Projection)",
+      "time": "10:30 PM",
+      "date": "20261120",
+      "cat": "CLASSIC ROWS",
+      "price": "99.00",
+      "status": "3"
+    },
     "INRK|99260|20261121|PRIME PLUS ROWS": {
       "venue": "INOX: City Centre II, Rajarhat",
       "time": "10:15 AM",
