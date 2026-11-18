@@ -1,5 +1,101 @@
 {
   "shows": {
+    "INQM|146372|20261120|ROYAL RECLINER": {
+      "venue": "INOX: Quest Mall",
+      "time": "02:40 PM",
+      "date": "20261120",
+      "cat": "ROYAL RECLINER",
+      "price": "610.00",
+      "status": "3"
+    },
+    "INQM|146372|20261120|ROYAL": {
+      "venue": "INOX: Quest Mall",
+      "time": "02:40 PM",
+      "date": "20261120",
+      "cat": "ROYAL",
+      "price": "340.00",
+      "status": "3"
+    },
+    "INQM|146372|20261120|CLUB": {
+      "venue": "INOX: Quest Mall",
+      "time": "02:40 PM",
+      "date": "20261120",
+      "cat": "CLUB",
+      "price": "330.00",
+      "status": "3"
+    },
+    "INQM|146372|20261120|EXECUTIVE": {
+      "venue": "INOX: Quest Mall",
+      "time": "02:40 PM",
+      "date": "20261120",
+      "cat": "EXECUTIVE",
+      "price": "310.00",
+      "status": "3"
+    },
+    "INQM|146373|20261120|ROYAL RECLINER": {
+      "venue": "INOX: Quest Mall",
+      "time": "08:00 PM",
+      "date": "20261120",
+      "cat": "ROYAL RECLINER",
+      "price": "640.00",
+      "status": "3"
+    },
+    "INQM|146373|20261120|ROYAL": {
+      "venue": "INOX: Quest Mall",
+      "time": "08:00 PM",
+      "date": "20261120",
+      "cat": "ROYAL",
+      "price": "400.00",
+      "status": "3"
+    },
+    "INQM|146373|20261120|CLUB": {
+      "venue": "INOX: Quest Mall",
+      "time": "08:00 PM",
+      "date": "20261120",
+      "cat": "CLUB",
+      "price": "390.00",
+      "status": "3"
+    },
+    "INQM|146373|20261120|EXECUTIVE": {
+      "venue": "INOX: Quest Mall",
+      "time": "08:00 PM",
+      "date": "20261120",
+      "cat": "EXECUTIVE",
+      "price": "370.00",
+      "status": "3"
+    },
+    "INQM|146371|20261120|ROYAL RECLINER": {
+      "venue": "INOX: Quest Mall",
+      "time": "11:35 PM",
+      "date": "20261120",
+      "cat": "ROYAL RECLINER",
+      "price": "640.00",
+      "status": "3"
+    },
+    "INQM|146371|20261120|ROYAL": {
+      "venue": "INOX: Quest Mall",
+      "time": "11:35 PM",
+      "date": "20261120",
+      "cat": "ROYAL",
+      "price": "400.00",
+      "status": "3"
+    },
+    "INQM|146371|20261120|CLUB": {
+      "venue": "INOX: Quest Mall",
+      "time": "11:35 PM",
+      "date": "20261120",
+      "cat": "CLUB",
+      "price": "390.00",
+      "status": "3"
+    },
+    "INQM|146371|20261120|EXECUTIVE": {
+      "venue": "INOX: Quest Mall",
+      "time": "11:35 PM",
+      "date": "20261120",
+      "cat": "EXECUTIVE",
+      "price": "370.00",
+      "status": "3"
+    },
     "INRK|99251|20261120|PRIME PLUS ROWS": {
       "venue": "INOX: City Centre II, Rajarhat",
       "time": "10:15 AM",
@@ -72,19 +168,19 @@
       "price": "270.00",
       "status": "3"
     },
-    "INRK|99253|20261120|PRIME ROWS": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "11:45 PM",
-      "date": "20261120",
-      "cat": "PRIME ROWS",
-      "price": "260.00",
-      "status": "3"
-    },
     "INRK|99253|20261120|PICTURE PERFECT": {
       "venue": "INOX: City Centre II, Rajarhat",
       "time": "11:45 PM",
       "date": "20261120",
       "cat": "PICTURE PERFECT",
+      "price": "260.00",
+      "status": "3"
+    },
+    "INRK|99253|20261120|PRIME ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "11:45 PM",
+      "date": "20261120",
+      "cat": "PRIME ROWS",
       "price": "260.00",
       "status": "3"
     },
@@ -176,6 +272,102 @@
       "price": "99.00",
       "status": "3"
     },
+    "INQM|146338|20261121|ROYAL RECLINER": {
+      "venue": "INOX: Quest Mall",
+      "time": "02:40 PM",
+      "date": "20261121",
+      "cat": "ROYAL RECLINER",
+      "price": "610.00",
+      "status": "3"
+    },
+    "INQM|146338|20261121|ROYAL": {
+      "venue": "INOX: Quest Mall",
+      "time": "02:40 PM",
+      "date": "20261121",
+      "cat": "ROYAL",
+      "price": "340.00",
+      "status": "3"
+    },
+    "INQM|146338|20261121|CLUB": {
+      "venue": "INOX: Quest Mall",
+      "time": "02:40 PM",
+      "date": "20261121",
+      "cat": "CLUB",
+      "price": "330.00",
+      "status": "3"
+    },
+    "INQM|146338|20261121|EXECUTIVE": {
+      "venue": "INOX: Quest Mall",
+      "time": "02:40 PM",
+      "date": "20261121",
+      "cat": "EXECUTIVE",
+      "price": "310.00",
+      "status": "3"
+    },
+    "INQM|146340|20261121|ROYAL RECLINER": {
+      "venue": "INOX: Quest Mall",
+      "time": "08:00 PM",
+      "date": "20261121",
+      "cat": "ROYAL RECLINER",
+      "price": "640.00",
+      "status": "3"
+    },
+    "INQM|146340|20261121|ROYAL": {
+      "venue": "INOX: Quest Mall",
+      "time": "08:00 PM",
+      "date": "20261121",
+      "cat": "ROYAL",
+      "price": "400.00",
+      "status": "3"
+    },
+    "INQM|146340|20261121|CLUB": {
+      "venue": "INOX: Quest Mall",
+      "time": "08:00 PM",
+      "date": "20261121",
+      "cat": "CLUB",
+      "price": "390.00",
+      "status": "3"
+    },
+    "INQM|146340|20261121|EXECUTIVE": {
+      "venue": "INOX: Quest Mall",
+      "time": "08:00 PM",
+      "date": "20261121",
+      "cat": "EXECUTIVE",
+      "price": "370.00",
+      "status": "3"
+    },
+    "INQM|146331|20261121|ROYAL RECLINER": {
+      "venue": "INOX: Quest Mall",
+      "time": "11:35 PM",
+      "date": "20261121",
+      "cat": "ROYAL RECLINER",
+      "price": "640.00",
+      "status": "3"
+    },
+    "INQM|146331|20261121|ROYAL": {
+      "venue": "INOX: Quest Mall",
+      "time": "11:35 PM",
+      "date": "20261121",
+      "cat": "ROYAL",
+      "price": "400.00",
+      "status": "3"
+    },
+    "INQM|146331|20261121|CLUB": {
+      "venue": "INOX: Quest Mall",
+      "time": "11:35 PM",
+      "date": "20261121",
+      "cat": "CLUB",
+      "price": "390.00",
+      "status": "3"
+    },
+    "INQM|146331|20261121|EXECUTIVE": {
+      "venue": "INOX: Quest Mall",
+      "time": "11:35 PM",
+      "date": "20261121",
+      "cat": "EXECUTIVE",
+      "price": "370.00",
+      "status": "3"
+    },
     "INRK|99260|20261121|PRIME PLUS ROWS": {
       "venue": "INOX: City Centre II, Rajarhat",
       "time": "10:15 AM",
@@ -184,19 +376,19 @@
       "price": "180.00",
       "status": "3"
     },
-    "INRK|99260|20261121|PRIME ROWS": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "10:15 AM",
-      "date": "20261121",
-      "cat": "PRIME ROWS",
-      "price": "170.00",
-      "status": "3"
-    },
     "INRK|99260|20261121|PICTURE PERFECT": {
       "venue": "INOX: City Centre II, Rajarhat",
       "time": "10:15 AM",
       "date": "20261121",
       "cat": "PICTURE PERFECT",
+      "price": "170.00",
+      "status": "3"
+    },
+    "INRK|99260|20261121|PRIME ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "10:15 AM",
+      "date": "20261121",
+      "cat": "PRIME ROWS",
       "price": "170.00",
       "status": "3"
     },
@@ -248,19 +440,19 @@
       "price": "280.00",
       "status": "3"
     },
-    "INRK|99264|20261121|PICTURE PERFECT": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "11:45 PM",
-      "date": "20261121",
-      "cat": "PICTURE PERFECT",
-      "price": "270.00",
-      "status": "3"
-    },
     "INRK|99264|20261121|PRIME ROWS": {
       "venue": "INOX: City Centre II, Rajarhat",
       "time": "11:45 PM",
       "date": "20261121",
       "cat": "PRIME ROWS",
+      "price": "270.00",
+      "status": "3"
+    },
+    "INRK|99264|20261121|PICTURE PERFECT": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "11:45 PM",
+      "date": "20261121",
+      "cat": "PICTURE PERFECT",
       "price": "270.00",
       "status": "3"
     },
@@ -270,6 +462,54 @@
       "date": "20261121",
       "cat": "CLASSIC ROWS",
       "price": "250.00",
+      "status": "3"
+    },
+    "CAML|7953|20261121|NORMAL": {
+      "venue": "Cinepolis: Acropolis Mall, Kolkata",
+      "time": "01:40 PM",
+      "date": "20261121",
+      "cat": "NORMAL",
+      "price": "260.00",
+      "status": "3"
+    },
+    "CAML|7953|20261121|EXECUTIVE": {
+      "venue": "Cinepolis: Acropolis Mall, Kolkata",
+      "time": "01:40 PM",
+      "date": "20261121",
+      "cat": "EXECUTIVE",
+      "price": "280.00",
+      "status": "3"
+    },
+    "CAML|7953|20261121|PREMIUM": {
+      "venue": "Cinepolis: Acropolis Mall, Kolkata",
+      "time": "01:40 PM",
+      "date": "20261121",
+      "cat": "PREMIUM",
+      "price": "300.00",
+      "status": "3"
+    },
+    "CAML|7956|20261121|NORMAL": {
+      "venue": "Cinepolis: Acropolis Mall, Kolkata",
+      "time": "11:10 PM",
+      "date": "20261121",
+      "cat": "NORMAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "CAML|7956|20261121|EXECUTIVE": {
+      "venue": "Cinepolis: Acropolis Mall, Kolkata",
+      "time": "11:10 PM",
+      "date": "20261121",
+      "cat": "EXECUTIVE",
+      "price": "300.00",
+      "status": "3"
+    },
+    "CAML|7956|20261121|PREMIUM": {
+      "venue": "Cinepolis: Acropolis Mall, Kolkata",
+      "time": "11:10 PM",
+      "date": "20261121",
+      "cat": "PREMIUM",
+      "price": "320.00",
       "status": "3"
     },
     "PVAK|21951|20261121|PRIME PLUS SOFA ROWS": {
@@ -352,6 +592,102 @@
       "price": "270.00",
       "status": "3"
     },
+    "INQM|146394|20261122|ROYAL RECLINER": {
+      "venue": "INOX: Quest Mall",
+      "time": "02:40 PM",
+      "date": "20261122",
+      "cat": "ROYAL RECLINER",
+      "price": "610.00",
+      "status": "3"
+    },
+    "INQM|146394|20261122|ROYAL": {
+      "venue": "INOX: Quest Mall",
+      "time": "02:40 PM",
+      "date": "20261122",
+      "cat": "ROYAL",
+      "price": "340.00",
+      "status": "3"
+    },
+    "INQM|146394|20261122|CLUB": {
+      "venue": "INOX: Quest Mall",
+      "time": "02:40 PM",
+      "date": "20261122",
+      "cat": "CLUB",
+      "price": "330.00",
+      "status": "3"
+    },
+    "INQM|146394|20261122|EXECUTIVE": {
+      "venue": "INOX: Quest Mall",
+      "time": "02:40 PM",
+      "date": "20261122",
+      "cat": "EXECUTIVE",
+      "price": "310.00",
+      "status": "3"
+    },
+    "INQM|146396|20261122|ROYAL RECLINER": {
+      "venue": "INOX: Quest Mall",
+      "time": "08:00 PM",
+      "date": "20261122",
+      "cat": "ROYAL RECLINER",
+      "price": "640.00",
+      "status": "3"
+    },
+    "INQM|146396|20261122|ROYAL": {
+      "venue": "INOX: Quest Mall",
+      "time": "08:00 PM",
+      "date": "20261122",
+      "cat": "ROYAL",
+      "price": "400.00",
+      "status": "3"
+    },
+    "INQM|146396|20261122|CLUB": {
+      "venue": "INOX: Quest Mall",
+      "time": "08:00 PM",
+      "date": "20261122",
+      "cat": "CLUB",
+      "price": "390.00",
+      "status": "3"
+    },
+    "INQM|146396|20261122|EXECUTIVE": {
+      "venue": "INOX: Quest Mall",
+      "time": "08:00 PM",
+      "date": "20261122",
+      "cat": "EXECUTIVE",
+      "price": "370.00",
+      "status": "3"
+    },
+    "INQM|146386|20261122|ROYAL RECLINER": {
+      "venue": "INOX: Quest Mall",
+      "time": "11:35 PM",
+      "date": "20261122",
+      "cat": "ROYAL RECLINER",
+      "price": "640.00",
+      "status": "3"
+    },
+    "INQM|146386|20261122|ROYAL": {
+      "venue": "INOX: Quest Mall",
+      "time": "11:35 PM",
+      "date": "20261122",
+      "cat": "ROYAL",
+      "price": "400.00",
+      "status": "3"
+    },
+    "INQM|146386|20261122|CLUB": {
+      "venue": "INOX: Quest Mall",
+      "time": "11:35 PM",
+      "date": "20261122",
+      "cat": "CLUB",
+      "price": "390.00",
+      "status": "3"
+    },
+    "INQM|146386|20261122|EXECUTIVE": {
+      "venue": "INOX: Quest Mall",
+      "time": "11:35 PM",
+      "date": "20261122",
+      "cat": "EXECUTIVE",
+      "price": "370.00",
+      "status": "3"
+    },
     "INRK|99283|20261122|PRIME PLUS ROWS": {
       "venue": "INOX: City Centre II, Rajarhat",
       "time": "10:15 AM",
@@ -360,19 +696,19 @@
       "price": "180.00",
       "status": "3"
     },
-    "INRK|99283|20261122|PRIME ROWS": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "10:15 AM",
-      "date": "20261122",
-      "cat": "PRIME ROWS",
-      "price": "170.00",
-      "status": "3"
-    },
     "INRK|99283|20261122|PICTURE PERFECT": {
       "venue": "INOX: City Centre II, Rajarhat",
       "time": "10:15 AM",
       "date": "20261122",
       "cat": "PICTURE PERFECT",
+      "price": "170.00",
+      "status": "3"
+    },
+    "INRK|99283|20261122|PRIME ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "10:15 AM",
+      "date": "20261122",
+      "cat": "PRIME ROWS",
       "price": "170.00",
       "status": "3"
     },
@@ -392,19 +728,19 @@
       "price": "280.00",
       "status": "3"
     },
-    "INRK|99286|20261122|PICTURE PERFECT": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "08:50 PM",
-      "date": "20261122",
-      "cat": "PICTURE PERFECT",
-      "price": "270.00",
-      "status": "3"
-    },
     "INRK|99286|20261122|PRIME ROWS": {
       "venue": "INOX: City Centre II, Rajarhat",
       "time": "08:50 PM",
       "date": "20261122",
       "cat": "PRIME ROWS",
+      "price": "270.00",
+      "status": "3"
+    },
+    "INRK|99286|20261122|PICTURE PERFECT": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "08:50 PM",
+      "date": "20261122",
+      "cat": "PICTURE PERFECT",
       "price": "270.00",
       "status": "3"
     },
@@ -424,19 +760,19 @@
       "price": "280.00",
       "status": "3"
     },
-    "INRK|99287|20261122|PICTURE PERFECT": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "11:45 PM",
-      "date": "20261122",
-      "cat": "PICTURE PERFECT",
-      "price": "270.00",
-      "status": "3"
-    },
     "INRK|99287|20261122|PRIME ROWS": {
       "venue": "INOX: City Centre II, Rajarhat",
       "time": "11:45 PM",
       "date": "20261122",
       "cat": "PRIME ROWS",
+      "price": "270.00",
+      "status": "3"
+    },
+    "INRK|99287|20261122|PICTURE PERFECT": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "11:45 PM",
+      "date": "20261122",
+      "cat": "PICTURE PERFECT",
       "price": "270.00",
       "status": "3"
     },
@@ -526,6 +862,22 @@
       "date": "20261122",
       "cat": "CLASSIC ROWS",
       "price": "270.00",
+      "status": "3"
+    },
+    "FSCK|152400|20261120|SILVER": {
+      "venue": "INOX: South City, Kolkata",
+      "time": "11:25 PM",
+      "date": "20261120",
+      "cat": "SILVER",
+      "price": "390.00",
+      "status": "3"
+    },
+    "FSCK|152400|20261120|PREMIER": {
+      "venue": "INOX: South City, Kolkata",
+      "time": "11:25 PM",
+      "date": "20261120",
+      "cat": "PREMIER",
+      "price": "370.00",
       "status": "3"
     }
   },
