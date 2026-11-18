@@ -126,7 +126,7 @@
       "date": "20261120",
       "cat": "PRIME ROWS",
       "price": "270.00",
-      "status": "3"
+      "status": "2"
     },
     "DMPZ|28559|20261120|CLASSIC ROWS": {
       "venue": "PVR: Diamond Plaza, Jessore Kolkata",
@@ -480,14 +480,6 @@
       "price": "99.00",
       "status": "3"
     },
-    "INER|97216|20261120|PRIME ROWS": {
-      "venue": "INOX: Forum Mall, Elgin Road",
-      "time": "09:00 AM",
-      "date": "20261120",
-      "cat": "PRIME ROWS",
-      "price": "199.00",
-      "status": "3"
-    },
     "INER|97216|20261120|CLASSIC ROWS": {
       "venue": "INOX: Forum Mall, Elgin Road",
       "time": "09:00 AM",
@@ -501,6 +493,14 @@
       "time": "09:00 AM",
       "date": "20261120",
       "cat": "PRIME PLUS ROWS",
+      "price": "199.00",
+      "status": "3"
+    },
+    "INER|97216|20261120|PRIME ROWS": {
+      "venue": "INOX: Forum Mall, Elgin Road",
+      "time": "09:00 AM",
+      "date": "20261120",
+      "cat": "PRIME ROWS",
       "price": "199.00",
       "status": "3"
     },
@@ -598,7 +598,7 @@
       "date": "20261121",
       "cat": "PRIME ROWS",
       "price": "210.00",
-      "status": "3"
+      "status": "2"
     },
     "DMPZ|28533|20261121|CLASSIC ROWS": {
       "venue": "PVR: Diamond Plaza, Jessore Kolkata",
@@ -678,7 +678,7 @@
       "date": "20261121",
       "cat": "PRIME ROWS",
       "price": "280.00",
-      "status": "3"
+      "status": "2"
     },
     "DMPZ|28538|20261121|CLASSIC ROWS": {
       "venue": "PVR: Diamond Plaza, Jessore Kolkata",
@@ -840,19 +840,19 @@
       "price": "180.00",
       "status": "3"
     },
-    "INRK|99260|20261121|PICTURE PERFECT": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "10:15 AM",
-      "date": "20261121",
-      "cat": "PICTURE PERFECT",
-      "price": "170.00",
-      "status": "3"
-    },
     "INRK|99260|20261121|PRIME ROWS": {
       "venue": "INOX: City Centre II, Rajarhat",
       "time": "10:15 AM",
       "date": "20261121",
       "cat": "PRIME ROWS",
+      "price": "170.00",
+      "status": "3"
+    },
+    "INRK|99260|20261121|PICTURE PERFECT": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "10:15 AM",
+      "date": "20261121",
+      "cat": "PICTURE PERFECT",
       "price": "170.00",
       "status": "3"
     },
@@ -1150,7 +1150,7 @@
       "date": "20261122",
       "cat": "PRIME ROWS",
       "price": "210.00",
-      "status": "2"
+      "status": "3"
     },
     "DMPZ|28581|20261122|CLASSIC ROWS": {
       "venue": "PVR: Diamond Plaza, Jessore Kolkata",
@@ -1392,19 +1392,19 @@
       "price": "180.00",
       "status": "3"
     },
-    "INRK|99283|20261122|PICTURE PERFECT": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "10:15 AM",
-      "date": "20261122",
-      "cat": "PICTURE PERFECT",
-      "price": "170.00",
-      "status": "3"
-    },
     "INRK|99283|20261122|PRIME ROWS": {
       "venue": "INOX: City Centre II, Rajarhat",
       "time": "10:15 AM",
       "date": "20261122",
       "cat": "PRIME ROWS",
+      "price": "170.00",
+      "status": "3"
+    },
+    "INRK|99283|20261122|PICTURE PERFECT": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "10:15 AM",
+      "date": "20261122",
+      "cat": "PICTURE PERFECT",
       "price": "170.00",
       "status": "3"
     },
@@ -1424,19 +1424,19 @@
       "price": "280.00",
       "status": "3"
     },
-    "INRK|99286|20261122|PRIME ROWS": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "08:50 PM",
-      "date": "20261122",
-      "cat": "PRIME ROWS",
-      "price": "270.00",
-      "status": "3"
-    },
     "INRK|99286|20261122|PICTURE PERFECT": {
       "venue": "INOX: City Centre II, Rajarhat",
       "time": "08:50 PM",
       "date": "20261122",
       "cat": "PICTURE PERFECT",
+      "price": "270.00",
+      "status": "3"
+    },
+    "INRK|99286|20261122|PRIME ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "08:50 PM",
+      "date": "20261122",
+      "cat": "PRIME ROWS",
       "price": "270.00",
       "status": "3"
     },
@@ -1456,19 +1456,19 @@
       "price": "280.00",
       "status": "3"
     },
-    "INRK|99287|20261122|PRIME ROWS": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "11:45 PM",
-      "date": "20261122",
-      "cat": "PRIME ROWS",
-      "price": "270.00",
-      "status": "3"
-    },
     "INRK|99287|20261122|PICTURE PERFECT": {
       "venue": "INOX: City Centre II, Rajarhat",
       "time": "11:45 PM",
       "date": "20261122",
       "cat": "PICTURE PERFECT",
+      "price": "270.00",
+      "status": "3"
+    },
+    "INRK|99287|20261122|PRIME ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "11:45 PM",
+      "date": "20261122",
+      "cat": "PRIME ROWS",
       "price": "270.00",
       "status": "3"
     },
