@@ -95,6 +95,198 @@
       "cat": "CLASSIC ROWS",
       "price": "240.00",
       "status": "3"
+    },
+    "INRK|99260|20261121|PRIME PLUS ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "10:15 AM",
+      "date": "20261121",
+      "cat": "PRIME PLUS ROWS",
+      "price": "180.00",
+      "status": "3"
+    },
+    "INRK|99260|20261121|PICTURE PERFECT": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "10:15 AM",
+      "date": "20261121",
+      "cat": "PICTURE PERFECT",
+      "price": "170.00",
+      "status": "3"
+    },
+    "INRK|99260|20261121|PRIME ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "10:15 AM",
+      "date": "20261121",
+      "cat": "PRIME ROWS",
+      "price": "170.00",
+      "status": "3"
+    },
+    "INRK|99260|20261121|CLASSIC ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "10:15 AM",
+      "date": "20261121",
+      "cat": "CLASSIC ROWS",
+      "price": "150.00",
+      "status": "3"
+    },
+    "INRK|99263|20261121|PRIME PLUS ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "08:50 PM",
+      "date": "20261121",
+      "cat": "PRIME PLUS ROWS",
+      "price": "280.00",
+      "status": "3"
+    },
+    "INRK|99263|20261121|PICTURE PERFECT": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "08:50 PM",
+      "date": "20261121",
+      "cat": "PICTURE PERFECT",
+      "price": "270.00",
+      "status": "3"
+    },
+    "INRK|99263|20261121|PRIME ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "08:50 PM",
+      "date": "20261121",
+      "cat": "PRIME ROWS",
+      "price": "270.00",
+      "status": "3"
+    },
+    "INRK|99263|20261121|CLASSIC ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "08:50 PM",
+      "date": "20261121",
+      "cat": "CLASSIC ROWS",
+      "price": "250.00",
+      "status": "3"
+    },
+    "INRK|99264|20261121|PRIME PLUS ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "11:45 PM",
+      "date": "20261121",
+      "cat": "PRIME PLUS ROWS",
+      "price": "280.00",
+      "status": "3"
+    },
+    "INRK|99264|20261121|PICTURE PERFECT": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "11:45 PM",
+      "date": "20261121",
+      "cat": "PICTURE PERFECT",
+      "price": "270.00",
+      "status": "3"
+    },
+    "INRK|99264|20261121|PRIME ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "11:45 PM",
+      "date": "20261121",
+      "cat": "PRIME ROWS",
+      "price": "270.00",
+      "status": "3"
+    },
+    "INRK|99264|20261121|CLASSIC ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "11:45 PM",
+      "date": "20261121",
+      "cat": "CLASSIC ROWS",
+      "price": "250.00",
+      "status": "3"
+    },
+    "INRK|99283|20261122|PRIME PLUS ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "10:15 AM",
+      "date": "20261122",
+      "cat": "PRIME PLUS ROWS",
+      "price": "180.00",
+      "status": "3"
+    },
+    "INRK|99283|20261122|PRIME ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "10:15 AM",
+      "date": "20261122",
+      "cat": "PRIME ROWS",
+      "price": "170.00",
+      "status": "3"
+    },
+    "INRK|99283|20261122|PICTURE PERFECT": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "10:15 AM",
+      "date": "20261122",
+      "cat": "PICTURE PERFECT",
+      "price": "170.00",
+      "status": "3"
+    },
+    "INRK|99283|20261122|CLASSIC ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "10:15 AM",
+      "date": "20261122",
+      "cat": "CLASSIC ROWS",
+      "price": "150.00",
+      "status": "3"
+    },
+    "INRK|99286|20261122|PRIME PLUS ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "08:50 PM",
+      "date": "20261122",
+      "cat": "PRIME PLUS ROWS",
+      "price": "280.00",
+      "status": "3"
+    },
+    "INRK|99286|20261122|PICTURE PERFECT": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "08:50 PM",
+      "date": "20261122",
+      "cat": "PICTURE PERFECT",
+      "price": "270.00",
+      "status": "3"
+    },
+    "INRK|99286|20261122|PRIME ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "08:50 PM",
+      "date": "20261122",
+      "cat": "PRIME ROWS",
+      "price": "270.00",
+      "status": "3"
+    },
+    "INRK|99286|20261122|CLASSIC ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "08:50 PM",
+      "date": "20261122",
+      "cat": "CLASSIC ROWS",
+      "price": "250.00",
+      "status": "3"
+    },
+    "INRK|99287|20261122|PRIME PLUS ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "11:45 PM",
+      "date": "20261122",
+      "cat": "PRIME PLUS ROWS",
+      "price": "280.00",
+      "status": "3"
+    },
+    "INRK|99287|20261122|PICTURE PERFECT": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "11:45 PM",
+      "date": "20261122",
+      "cat": "PICTURE PERFECT",
+      "price": "270.00",
+      "status": "3"
+    },
+    "INRK|99287|20261122|PRIME ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "11:45 PM",
+      "date": "20261122",
+      "cat": "PRIME ROWS",
+      "price": "270.00",
+      "status": "3"
+    },
+    "INRK|99287|20261122|CLASSIC ROWS": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "11:45 PM",
+      "date": "20261122",
+      "cat": "CLASSIC ROWS",
+      "price": "250.00",
+      "status": "3"
     }
   },
   "dates": {
